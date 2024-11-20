@@ -1,4 +1,3 @@
-
 # Ounka
 
 A Yorùbá numbering system python script based on [a proposal by Hakeem Adeniyan and Taofeeq Adebayo published on Science in Yorùbá](https://scienceinyoruba.org/2024/11/18/the-new-adeniyan-adebayo-yoruba-numbering-system-python-codes/)
